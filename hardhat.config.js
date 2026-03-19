@@ -18,6 +18,6 @@ module.exports = {
   },
 
   etherscan: {
-    apiKey: ETHERSCAN_API_KEY, // ✅ dùng chuẩn V2 (rất quan trọng)
+    apiKey: ETHERSCAN_API_KEY, 
   },
 };
